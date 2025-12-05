@@ -15,5 +15,5 @@ A Go-based distributed chat system using RPC with real-time broadcasting capabil
 
 ### 1. Clone and setup
 ```bash
-git clone <repository-url>
+git clone <https://github.com/EngZakariaReda/go-rpc-chat.git>
 cd go-rpc-chat

@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yourusername/go-rpc-chat/shared"
+	"github.com/EngZakariaReda/go-rpc-chat/shared"
 )
 
 type ChatClient struct {
